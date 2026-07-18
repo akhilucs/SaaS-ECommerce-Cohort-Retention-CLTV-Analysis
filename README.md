@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes customer purchasing behavior using the Online Retail II dataset.
+This project analyzes customer purchasing behavior using the Online Retail II dataset
 
 The main objectives are:
 
